@@ -84,24 +84,6 @@ Built with interactivity in mind, the dashboard allows dynamic filtering by date
 
 ---
 
-## 💼 Use Cases
-
-### 📈 Business Intelligence
-- Track KPIs across time and dimensions  
-- Identify high-performing products and sales reps  
-- Monitor customer behavior for retention
-
-### 🧠 Strategic Planning
-- Plan inventory and marketing by seasonal trends  
-- Segment customers for targeted campaigns  
-- Identify expansion opportunities by city
-
-### 🎯 Performance Management
-- Evaluate employee contributions  
-- Optimize product portfolio  
-- Strengthen customer relationships
-
----
 
 ## 🛠️ Technical Information
 
@@ -109,18 +91,4 @@ Built with interactivity in mind, the dashboard allows dynamic filtering by date
 - **Data Coverage**: 1996–1998 sales history  
 - **Dashboard Type**: Executive-level BI dashboard  
 - **Technology**: Tableau Desktop or compatible viewer  
-
----
-
-## 📁 Repository Structure
-📦 northwind-sales-dashboard/
-├── dashboards/
-│ └── northwind_dashboard.twbx
-├── data/
-│ └── northwind_sales_data.csv
-├── images/
-│ └── dashboard_preview.png
-├── documentation/
-│ └── user_guide.pdf
-└── README.md
 
